@@ -18,3 +18,6 @@ INSERT INTO livre (titre) VALUES ('Book One'), ('Book Two'), ('Book Three');
 
 # Étape 4 : Créer une application Flask Python pour afficher le contenu d'un tableau
 Voir le fichier python 
+
+# Exécutez l'application 
+python app.py
